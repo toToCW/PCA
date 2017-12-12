@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace APK_Protect_Check
+namespace APK_Protect_Detect
 {
     static class Program
     {

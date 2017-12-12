@@ -7,8 +7,8 @@
     <ProjectGuid>{E22EBC82-C0A6-45E8-AF96-5DE5ABB38610}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>APK_Protect_Check</RootNamespace>
-    <AssemblyName>APK Protect Check</AssemblyName>
+    <RootNamespace>APK_Protect_Detect</RootNamespace>
+    <AssemblyName>APK Protect Detect</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -68,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -17,3 +17,12 @@ C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Pro
 C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Check.Form1.resources
 C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Check.Properties.Resources.resources
 C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.csproj.GenerateResource.Cache
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Detect.exe.config
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Detect.exe
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Detect.pdb
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Detect.Form1.resources
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Detect.Properties.Resources.resources
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.csproj.GenerateResource.Cache
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.exe
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.pdb

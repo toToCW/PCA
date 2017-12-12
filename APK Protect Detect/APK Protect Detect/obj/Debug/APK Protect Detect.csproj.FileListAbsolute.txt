@@ -1,0 +1,9 @@
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Debug\APK Protect Detect.csproj.GenerateResource.Cache
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Debug\APK Protect Detect.exe.config
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Debug\APK_Protect_Detect.Form1.resources
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Debug\APK_Protect_Detect.Properties.Resources.resources
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Debug\APK Protect Detect.exe
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\bin\Debug\APK Protect Detect.pdb
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Debug\APK Protect Detect.exe
+E:\Github\PCA\APK Protect Detect\APK Protect Detect\obj\Debug\APK Protect Detect.pdb

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 using ICSharpCode.SharpZipLib.Zip;
 
-namespace APK_Protect_Check
+namespace APK_Protect_Detect
 {
     public partial class Form1 : Form
     {
@@ -192,6 +192,11 @@ namespace APK_Protect_Check
         private void clearToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Environment.Exit(0);
         }
     }
 }
