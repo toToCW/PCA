@@ -1,0 +1,19 @@
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\bin\Release\APK Protect Check.exe.config
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\bin\Release\APK Protect Check.exe
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\bin\Release\APK Protect Check.pdb
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\obj\Release\APK_Protect_Check.Form1.resources
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\obj\Release\APK_Protect_Check.Properties.Resources.resources
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\obj\Release\APK Protect Detect.csproj.GenerateResource.Cache
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\obj\Release\APK Protect Check.exe
+C:\Users\wangz\Desktop\APK Protect Check\APK Protect Check\obj\Release\APK Protect Check.pdb
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Check.exe.config
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Check.exe
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Check.pdb
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Check.exe
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\bin\Release\APK Protect Check.pdb
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.csprojResolveAssemblyReference.cache
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Check.Form1.resources
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK_Protect_Check.Properties.Resources.resources
+C:\Users\wangz\Desktop\APK Protect Detect\APK Protect Detect\obj\Release\APK Protect Detect.csproj.GenerateResource.Cache
